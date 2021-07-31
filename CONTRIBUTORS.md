@@ -130,3 +130,5 @@
 - [@rashmikt](https://github.com/rashmikt)
 
 - [@tejaswate7](https://github.com/tejaswate7)
+
+- [@pix0127](https://github.com/pix0127)
